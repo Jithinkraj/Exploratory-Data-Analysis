@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# Exploratory-Data-Analysis (EDA)
 Exploratory data analysis - ABC company dataset
 Exploratory data analysis (EDA) is a statistical method for summarizing the main characteristics of data sets. It often uses data visualization methods and statistical graphics. Here i have done an EDA  with a dataset from ABC company, consisting of 458 rows and 9 columns. The company requires a comprehensive report detailing information about their employees across various teams.
 
